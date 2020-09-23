@@ -1,0 +1,22 @@
+.video__content-title{
+  margin: auto;
+  width: 60%;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .video__content-title{
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+  .video__content-title{
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 374px) {
+  .video__content-title{
+    width: 100%;
+  }
+}
