@@ -2,6 +2,6 @@
 
 
 
-   [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/1.svg)](https://github.com/KonstantinOkhlynin/Mesto/blob/master/README.EN.MD)
-   [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/2.svg)](https://konstantinokhlynin.github.io/Mesto/)
+   [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/1.svg)](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
+   [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/2.svg)](https://konstantinokhlynin.github.io/TravelInRussia/)
      ![Header](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/assets/RU.svg)
