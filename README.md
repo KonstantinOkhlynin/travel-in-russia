@@ -1,6 +1,6 @@
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Logo.svg)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/EnglishReadme.svg)](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/README.EN.MD)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteRu.svg)](https://konstantinokhlynin.github.io/LearnToLearn)
+   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/EnglishReadme.svg)](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
+   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteRu.svg)](https://konstantinokhlynin.github.io/TravelInRussia/)
 # Путешествия по России
 ### Веб-сайт рассказывающий о том, что люди всегда путешествуют по разным странам, но мало кто выбирает для своих путешествий Росиию. А ведь Россия невероятно огромная страна, где очень много красивых и необычных мест, на посещение которых уйдёт не один год. Сайт расскажет о таких местах, приведёт интересную статистику и факты.
 ## Цель: 
