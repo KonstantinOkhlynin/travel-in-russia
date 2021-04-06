@@ -3,16 +3,16 @@
    [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteRu.svg)](https://konstantinokhlynin.github.io/TravelInRussia/)
 # Путешествия по России
 ### Веб-сайт рассказывающий о том, что люди всегда путешествуют по разным странам, но мало кто выбирает для своих путешествий Росиию. А ведь Россия невероятно огромная страна, где очень много красивых и необычных мест, на посещение которых уйдёт не один год. Сайт расскажет о таких местах, приведёт интересную статистику и факты.
-## Цель: 
+## Цель 
 ### Целью данного проекта является изучить основы отзывчивой вёрстки и адаптировать сайт под несколько разрешений экранов. Также научиться использовать CSS Grid.
-## Языки:
+## Языки
 ### ‣ HTML5;
 ### ‣ CSS3;
-## Методология:
+## Методология
 ### ‣ БЭМ;
-## Cборщик модулей:
+## Cборщик модулей
 ### ‣ Webpack;
-## Используемые npm-пакеты:
+## Используемые npm-пакеты
 #### ‣ [babel-cli](https://www.npmjs.com/package/babel-cli);
 #### ‣ [babel-core](https://www.npmjs.com/package/babel-core);
 #### ‣ [babel/plugin-proposal-class-properties](https://www.npmjs.com/package/@babel/plugin-proposal-class-properties);
@@ -37,7 +37,7 @@
 #### ‣ [webpack-md5-hash](https://www.npmjs.com/package/webpack-md5-hash);
 #### ‣ [babel-polyfill](https://www.npmjs.com/package/@babel/polyfill);
 #### ‣ [core-js](https://www.npmjs.com/package/core-js);
-## Инструкция по развёртыванию:
+## Инструкция по развёртыванию
 ### 1. Вы можете открыть веб-сайт нажав на кнопку `Перейти на сайт` в самом начале Readme.
 ### 2. Для развёртывания веб-сайта на своём локальном компьютере нужно:
 #### ‣ Склонировать репозиторий на свой локальный компьютер c помощью команды:

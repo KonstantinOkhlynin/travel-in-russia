@@ -2,16 +2,16 @@
     [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteEng.svg)](https://konstantinokhlynin.github.io/TravelInRussia/)
 # Travel in Russia
 ### A website that tells you that people always travel to different countries, but few people choose Russia for their trips. But Russia is an incredibly huge country, where there are a lot of beautiful and unusual places, which will take more than one year to visit. The site will tell you about such places, provide interesting statistics and facts.
-## Goal:
+## Goal
 ### The goal of this project is to learn the basics of responsive layout and adapt the site to multiple screen resolutions. Also learn how to use CSS Grid.
-## Languages:
+## Languages
 ### ‣ HTML5;
 ### ‣ CSS3;
-## Methodology:
+## Methodology
 ### ‣ BEM;
-## Module Builder:
+## Module Builder
 # # # ‣ Webpack;
-## npm packages used:
+## npm packages used
 #### ‣ [babel-cli](https://www.npmjs.com/package/babel-cli);
 #### ‣ [babel-core](https://www.npmjs.com/package/babel-core);
 #### ‣ [babel/plugin-proposal-class-properties](https://www.npmjs.com/package/@babel/plugin-proposal-class-properties);
@@ -36,7 +36,7 @@
 #### ‣ [webpack-md5-hash](https://www.npmjs.com/package/webpack-md5-hash);
 #### ‣ [babel-polyfill](https://www.npmjs.com/package/@babel/polyfill);
 #### ‣ [core-js](https://www.npmjs.com/package/core-js);
-## Deployment instructions:
+## Deployment instructions
 ### 1. You can open the website by clicking on the 'Go to Site' button at the very beginning of the Readme.
 ### 2. To deploy a website on your local computer, you need to:
 #### ‣ Clone the repository to your local computer using the command:
