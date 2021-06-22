@@ -1,6 +1,6 @@
-   ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Logo.svg)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/EnglishReadme.svg)](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteRu.svg)](https://konstantinokhlynin.github.io/TravelInRussia/)
+# Author: Konstantin Okhlynin
+# [**English Readme**](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
+# [**Сайт**](https://konstantinokhlynin.github.io/TravelInRussia/)
 # Путешествия по России
 ### Веб-сайт рассказывающий о том, что люди всегда путешествуют по разным странам, но мало кто выбирает для своих путешествий Росиию. А ведь Россия невероятно огромная страна, где очень много красивых и необычных мест, на посещение которых уйдёт не один год. Сайт расскажет о таких местах, приведёт интересную статистику и факты.
 ## Цель 
@@ -38,7 +38,7 @@
 #### ‣ [babel-polyfill](https://www.npmjs.com/package/@babel/polyfill);
 #### ‣ [core-js](https://www.npmjs.com/package/core-js);
 ## Инструкция по развёртыванию
-### 1. Вы можете открыть веб-сайт нажав на кнопку `Перейти на сайт` в самом начале Readme.
+### 1. Вы можете открыть веб-сайт нажав на кнопку `Сайт` в самом начале Readme.
 ### 2. Для развёртывания веб-сайта на своём локальном компьютере нужно:
 #### ‣ Склонировать репозиторий на свой локальный компьютер c помощью команды:
 ```bash
