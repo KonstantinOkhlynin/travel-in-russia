@@ -1,6 +1,5 @@
 # Author: Konstantin Okhlynin
-# [**English Readme**](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
-# [**Website**](https://konstantinokhlynin.github.io/TravelInRussia/)
+# [**Website**](https://konstantinokhlynin.github.io/travel-in-russia/)
 # Travel in Russia
 ### A website that tells you that people always travel to different countries, but few people choose Russia for their trips. But Russia is an incredibly huge country, where there are a lot of beautiful and unusual places, which will take more than one year to visit. The site will tell you about such places, provide interesting statistics and facts.
 ## Goal
