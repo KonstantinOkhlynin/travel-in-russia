@@ -1,6 +1,6 @@
 # Author: Konstantin Okhlynin
-# [**English Readme**](https://github.com/KonstantinOkhlynin/TravelInRussia/blob/master/README.EN.MD)
-# [**Сайт**](https://konstantinokhlynin.github.io/TravelInRussia/)
+# [**English Readme**](https://github.com/KonstantinOkhlynin/travel-in-russia/blob/master/README.EN.MD)
+# [**Сайт**](https://konstantinokhlynin.github.io/travel-in-russia/)
 # Путешествия по России
 ### Веб-сайт рассказывающий о том, что люди всегда путешествуют по разным странам, но мало кто выбирает для своих путешествий Росиию. А ведь Россия невероятно огромная страна, где очень много красивых и необычных мест, на посещение которых уйдёт не один год. Сайт расскажет о таких местах, приведёт интересную статистику и факты.
 ## Цель 
